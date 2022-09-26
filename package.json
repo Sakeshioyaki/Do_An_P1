@@ -1,0 +1,21 @@
+{
+  "name": "sever",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type":"module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "buffer": "^6.0.3",
+    "cheerio": "^1.0.0-rc.10",
+    "firebase-admin": "^10.1.0",
+    "fs": "^0.0.1-security",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6"
+  }
+}
