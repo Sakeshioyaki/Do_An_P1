@@ -1,7 +1,7 @@
 INFOR
 ------------
  * Đây là mô đun có chức năng thu thập dữ liệu nhà trọ, là một phần nằm trong đồ án tốt nghiệp bậc kỹ sư tại trường Đại học Bách khoa của mình.
- * Phần thứ 2 là mã nguồn sever có chức năng cung cấp API đưa ra danh sách nhà trọ được gợi ý cho người dùng. Link:  
+ * Phần thứ 2 là mã nguồn sever có chức năng cung cấp API đưa ra danh sách nhà trọ được gợi ý cho người dùng. Link:  https://github.com/Sakeshioyaki/Sever_Do_An
  * Phần còn lại là ứng dụng mobie về hệ thống cho thuê nhà trọ mình không thể public :))
   
  * Link quyển đồ án file latex online: https://www.overleaf.com/read/mvpmczpjfxdd
